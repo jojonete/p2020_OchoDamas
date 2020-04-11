@@ -1,0 +1,3 @@
+if gcc -O -Wall -o v1 v1.c
+then ./v1 > v1.txt
+fi
